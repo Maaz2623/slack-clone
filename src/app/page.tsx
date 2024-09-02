@@ -1,10 +1,8 @@
-import AuthScreen from '@/features/auth/components/auth-screen'
-import React from 'react'
+import AuthScreen from "@/features/auth/components/auth-screen";
+import React from "react";
 
 const HomePage = () => {
-  return (
-    <AuthScreen />
-  )
-}
+  return <AuthScreen />;
+};
 
-export default HomePage
+export default HomePage;
